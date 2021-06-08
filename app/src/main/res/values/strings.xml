@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="Date">Date</string>
+    <string name="floatingActionButton">button</string>
+    <string name="editTex1">one</string>
+    <string name="checkBox1">two</string>
+    <string name="editTex2">three</string>
+    <string name="checkBox2">four</string>
+    <string name="editTex3">five</string>
+    <string name="checkBox3">six</string>
+    <string name="editTex4">seven</string>
+    <string name="checkBox4">eight</string>
+
+</resources>
